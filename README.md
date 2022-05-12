@@ -9,15 +9,13 @@
   
 <div>
   
-  <img src="https://64.media.tumblr.com/8107b72703d4c2e22fc1716d6552368e/31e14755ea9ad461-71/s500x750/a52b5412774de414d1c53f5ea778cf87ac6b8de8.png" style="width: 25%; float: left;">
-  
+  <img src="https://64.media.tumblr.com/8107b72703d4c2e22fc1716d6552368e/31e14755ea9ad461-71/s500x750/a52b5412774de414d1c53f5ea778cf87ac6b8de8.png" align="left" width="25%">
 
-<br>
   <p>Hello, I'm Gabriel Souza!</p>
   
- 
 </div>
   
+
 <br><br><br><br><br><br><br><br><br>
 <div align="center" >
 
