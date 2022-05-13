@@ -10,13 +10,16 @@
 <div>
   
   <img src="https://64.media.tumblr.com/8107b72703d4c2e22fc1716d6552368e/31e14755ea9ad461-71/s500x750/a52b5412774de414d1c53f5ea778cf87ac6b8de8.png" align="left" width="25%">
-
-  <p>Hello, I'm Gabriel Souza!</p>
+  <strong><li>Hello, I'm Gabriel Souza, and I'm 21 years old!</li>
+  <li>I'm graduating at Multiplatform Software Development - FATEC SJC</li>
+  <li>FullStack Developer</li>
+  <li>Always looking to be better than the day before</li>
+  <li>I seek to elevate my learning beyond the teaching of college, putting into practice the concepts learned.</li></strong>
   
 </div>
   
 
-<br><br><br><br><br><br><br><br><br>
+<br><br><br><br>
 <div align="center" >
 
 |                                                                                                                                                                                      | Social                                                                                                                                        |                                                                                                                                                   |
