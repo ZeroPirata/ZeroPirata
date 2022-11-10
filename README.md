@@ -28,7 +28,7 @@
 <div align="center" >
   <h1>Technologies</h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=css,flask,html,java,js,mongodb,mysql,nodejs,py,redis,spring,ts,vue,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=css,flask,html,java,js,mongodb,mysql,react,nodejs,py,redis,spring,ts,vue,&theme=dark)](https://skills.thijs.gg)
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZeroPirata&show_icons=true&&theme=dark" width="40%">  
