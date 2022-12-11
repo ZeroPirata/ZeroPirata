@@ -1,7 +1,10 @@
 <div align="center">
+
+  <img src="https://user-images.githubusercontent.com/88253613/167476962-9f3c0809-ada0-4021-94a4-7db55f28e73d.png" width="35%"> 
   
-  <img src="https://user-images.githubusercontent.com/88253613/167476962-9f3c0809-ada0-4021-94a4-7db55f28e73d.png" width="35%">
-  
+  <br>
+
+  <img src="https://www.codewars.com/users/Gabriel%20Bicho/badges/large" width="30%">
 </div>
 <hr>
 
