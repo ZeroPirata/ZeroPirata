@@ -22,17 +22,20 @@
 </div>
 <div align="left" >
 
-| Social                                                                                                                                                                                     |                                                                                                                                         |                                                                                                                                                   
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- 
-| <a href="https://www.linkedin.com/in/gabriel-souza-bicho-nunes-429191185/">![ID](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> | <a href="mailto:gabrielpiratasouza@gmail.com">![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+| Social                                                                                                                                                                                     |                                                                                                                                                                        |                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
+|<a href="https://www.linkedin.com/in/gabriel-souza-bicho-nunes-429191185/">![ID](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>        | <a href="https://www.hackerrank.com/ZeroPirata">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> | <a href="https://www.codewars.com/users/Gabriel%20Bicho">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>|
 </div>
 <hr>
   
 <div align="center" >
   <h1>Technologies</h1>
 
-[![My Skills](https://skills.thijs.gg/icons?i=css,flask,html,java,js,mongodb,mysql,react,nodejs,py,redis,spring,ts,vue,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,react,nodejs&theme=dark)](https://skills.thijs.gg)
 
+[![My Skills](https://skills.thijs.gg/icons?i=py,flask,java,spring&theme=dark)](https://skills.thijs.gg)
+
+[![My Skills](https://skills.thijs.gg/icons?i=mongodb,redis,mysql,firebase,docker&theme=dark)](https://skills.thijs.gg)
 
 <img src="https://github-readme-stats.vercel.app/api?username=ZeroPirata&show_icons=true&&theme=dark" width="40%">  
     
