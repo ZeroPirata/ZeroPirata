@@ -17,10 +17,12 @@
   
 </div>
 <div align="left" >
+  
 
-| Social                                                                                                                                                                                     |                                                                                                                                                                        |                                                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| -----------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|<a href="https://www.linkedin.com/in/gabriel-souza-bicho-nunes-429191185/">![ID](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>        | <a href="https://www.hackerrank.com/ZeroPirata">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> | <a href="https://www.codewars.com/users/Gabriel%20Bicho">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>|
+
+| Social|Portifólio|  |  |
+| ----- | ----- | ----- | ----- | 
+|<a target="_blank" href="https://www.linkedin.com/in/gabriel-souza-bicho-nunes-429191185/">![ID](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>        |<a target="_blank" href="https://portifolio-xi-sepia.vercel.app/">![Vercel](https://img.shields.io/badge/Portifólio-000?style=for-the-badge&logo=vercel&logoColor=white)</a>| <a target="_blank" href="https://www.hackerrank.com/ZeroPirata">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a> | <a target="_blank" href="https://www.codewars.com/users/Gabriel%20Bicho">![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</a>|
 </div>
 <hr>
   
