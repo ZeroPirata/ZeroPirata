@@ -16,7 +16,7 @@
   
 
 </div>
-<div align="left" >
+<div align="center" >
   
 
 
@@ -26,6 +26,7 @@
 
 </div>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api?username=ZeroPirata&show_icons=true&&theme=dark" width="40%">  
-    
+<div align="center">
+<img src="https://www.codewars.com/users/Gabriel%20Bicho/badges/large"/>
+</div>    
 </div>
