@@ -11,7 +11,7 @@
   <img src="https://64.media.tumblr.com/8107b72703d4c2e22fc1716d6552368e/31e14755ea9ad461-71/s500x750/a52b5412774de414d1c53f5ea778cf87ac6b8de8.png" align="left" width="25%">
   <strong><li>Hello, I'm Gabriel Souza, and I'm 24 years old!</li>
   <li>I graduated in Multiplatform Software Development from FATEC SJC in 2024.</li>
-  <li>mid level software engineer</li>
+  <li>Mid-Level Software Engineer</li>
   <li>Always looking to be better than the day before</li>
   
 
